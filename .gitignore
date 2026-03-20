@@ -1,0 +1,47 @@
+# WorkBuddy 工作目录
+.workbuddy/
+
+# Visual Studio 生成的文件
+.vs/
+*.user
+*.userosscache
+*.suo
+*.cache
+*.ilk
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+*.recipe
+
+# 编译输出目录
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# 发布包目录
+[Tt]10[Rr]f[Ss]et*/
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# 日志文件（保留源代码，排除运行时日志）
+build_log.txt
+
+# 其他
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+ipch/
